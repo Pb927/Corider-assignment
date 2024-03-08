@@ -1,0 +1,31 @@
+{
+  "name": "corider-assignment",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/next-js": "^2.1.4",
+    "@chakra-ui/react": "^2.7.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@types/node": "20.3.2",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "framer-motion": "^10.12.18",
+    "next": "^13.4.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "sharp": "^0.32.1",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "next-pwa": "^5.6.0",
+    "workbox-webpack-plugin": "^7.0.0"
+  }
+}
